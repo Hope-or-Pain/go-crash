@@ -1,6 +1,6 @@
 # go-crash
 
-Go: The Complete Developer's Guide (Golang) - course source code  
+course source code of Go: The Complete Developer's Guide (Golang) Udemy course by Stephen Grider
 Go：完整的开发人员指南（Golang）- 课程源代码
 
 basic syntax of Golang  
